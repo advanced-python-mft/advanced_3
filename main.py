@@ -1,1 +1,3 @@
-print("hello world!")
+f = open("file.txt", "w")
+
+f.close()
