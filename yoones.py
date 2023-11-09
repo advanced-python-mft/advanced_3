@@ -1,1 +1,2 @@
-print("yoones")
+from datetime import datetime
+note=[]
